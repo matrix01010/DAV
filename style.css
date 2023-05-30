@@ -1,0 +1,7 @@
+.container {
+    background-color: rgb(101, 185, 185);
+    animation: backwards;
+    text-decoration: dotted;
+    margin-top: 10px;
+    text-align: left;
+}
